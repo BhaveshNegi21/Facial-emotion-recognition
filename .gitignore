@@ -4,4 +4,7 @@ __pycache__/
 data/
 .DS_Store
 *.pth
+.DS_Store
+*.pth
+data/
 outputs/
