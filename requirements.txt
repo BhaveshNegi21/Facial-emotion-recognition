@@ -1,3 +1,11 @@
+torch
+torchvision
+torchaudio
+jupyter
+matplotlib
+scikit-learn
+pandas
+kaggle
 anyio==4.13.0
 appnope==0.1.4
 argon2-cffi==25.1.0
